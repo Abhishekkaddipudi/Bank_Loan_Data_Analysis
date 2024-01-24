@@ -1,5 +1,3 @@
-# Bank_Loan_Data_Analysis
-
 # LendingClub Loan Data Analysis Report
 ## BANK LOAN REPORT
 
